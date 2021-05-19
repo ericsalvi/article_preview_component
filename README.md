@@ -28,7 +28,7 @@ Users should be able to:
 
 ![Desktop Design Solution](./design/desktop-design-solution.png)
 ![Desktop Design Solution Active State](./design/desktop-design-solution-active-state.png)
-![Mobile Design Solution](./design/mobile-design-solution.png) ![Mobile Design Solution Active State](./design/mobile-design-solution-active-state.png)
+![Mobile Design](./design/mobile-design-solution-combined.png)
 
 ### Links
 
