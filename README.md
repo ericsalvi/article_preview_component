@@ -28,13 +28,12 @@ Users should be able to:
 
 ![Desktop Design Solution](./design/desktop-design-solution.png)
 ![Desktop Design Solution Active State](./design/desktop-design-solution-active-state.png)
-![Mobile Design Solution](./design/mobile-design-solution.png)
-![Mobile Design Solution Active State](./design/mobile-design-solution-active-state.png)
+![Mobile Design Solution](./design/mobile-design-solution.png) ![Mobile Design Solution Active State](./design/mobile-design-solution-active-state.png)
 
 ### Links
 
-- Solution URL: [frontendmentor.io](https://www.frontendmentor.io/solutions/social-proof-section-using-flexbox-css-variables-and-rem-units-olkp0I8Ke)
-- Live Site URL: [https://ericsalvi.github.io/Social-proof-section-component/](https://ericsalvi.github.io/Social-proof-section-component/)
+- Solution URL: [frontendmentor.io](https://www.frontendmentor.io/solutions/article-preview-and-the-mobilefirst-approach-using-flex-and-grid-9v1heqcHn)
+- Live Site URL: [https://ericsalvi.github.io/article_preview_component/](https://ericsalvi.github.io/article_preview_component/)
 
 ## My process
 
